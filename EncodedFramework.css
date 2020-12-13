@@ -1,0 +1,13 @@
+/*  ____
+   ╱
+  ╱___    EncodedFramework
+ ╱   ┌─   https://encode42.dev
+╱___ ├╴
+*/
+
+/* Popups */
+.ef-popup{
+	display:none;
+	visibility:hidden;
+	opacity:0
+}
